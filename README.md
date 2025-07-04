@@ -31,7 +31,7 @@ Simular a posição de **dois navios** em um **tabuleiro 10x10**, utilizando **v
 
 ---
 
-# 🔹 Desafio 2 – Nível Intermediário
+## 🔹 Desafio 2 – Nível Intermediário
 
 ## 🎯 Objetivo
 
@@ -54,7 +54,7 @@ Este desafio tem como objetivo **aumentar a complexidade do jogo Batalha Naval**
 
 ---
 
-# 🔹 Desafio 3 – Nível Avançado
+## 🔹 Desafio 3 – Nível Avançado
 
 ## 🎯 Objetivo
 
