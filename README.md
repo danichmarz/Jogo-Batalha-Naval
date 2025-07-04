@@ -29,12 +29,6 @@ Simular a posição de **dois navios** em um **tabuleiro 10x10**, utilizando **v
   - Sobreposição de navios.
 - Exibição do tabuleiro no terminal.
 
-### ▶️ Como Executar
-
-```bash
-gcc desafio1-nivel-basico.c -o basico
-./basico
-
 ---
 
 # 🔹 Desafio 2 – Nível Intermediário
@@ -57,16 +51,6 @@ Este desafio tem como objetivo **aumentar a complexidade do jogo Batalha Naval**
 - Validação de **sobreposição** entre navios.
 - Exibição visual do tabuleiro com navios em **várias direções**.
 - Saída em terminal para visualização clara da posição dos navios.
-
----
-
-## ▶️ Como Executar
-
-No terminal do **GitHub Codespaces** ou em um ambiente Linux com `gcc` instalado, execute:
-
-```bash
-gcc desafio2-nivel-intermediario.c -o intermediario
-./intermediario
 
 ---
 
@@ -97,11 +81,3 @@ Adicionar **habilidades especiais com área de efeito** no tabuleiro do jogo Bat
 - `5`: Área atingida por habilidade especial  
 
 ---
-
-## ▶️ Como Executar
-
-No terminal do GitHub Codespaces ou outro ambiente com suporte a `gcc`, execute:
-
-```bash
-gcc desafio3-nivel-avancado.c -o avancado
-./avancado
